@@ -1,0 +1,16 @@
+{
+  "name": "effective_typescript",
+  "version": "1.0.0",
+  "description": "study effective typescript",
+  "main": "index.js",
+  "author": "withkey",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

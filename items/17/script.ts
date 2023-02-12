@@ -83,3 +83,8 @@ const obj3: TorU = {
 
   const abc: A = obj;
 }
+
+{
+  const list = [1, 2];
+  const tuple: [number, number] = list;
+}

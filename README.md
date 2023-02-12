@@ -11,3 +11,5 @@
 [16. number 인덱스 시그니처보다는 Array, 튜플, ArrayLike 사용하기](https://github.com/with-key/typescript_study/blob/main/items/16/16.md)
 
 [19. 추론 가능한 타입을 사용해 장황한 코드 방지하기](https://github.com/with-key/typescript_study/blob/main/items/19/19.md)
+
+[22. 타입 좁히기](https://github.com/with-key/typescript_study/blob/main/items/22/22.md)
